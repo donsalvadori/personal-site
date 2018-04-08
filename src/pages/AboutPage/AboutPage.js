@@ -35,11 +35,11 @@ const AboutPage = (props, context) => {
               , and purchasing content often to stay fresh as a developer. 
             </p>
             <p> 
-              I also like to write comedy, train as a boxer, read fiction, obsess over 1st party nintendo franchises,
-              and shoot photography with my olympus camera. 
+              I also like to write comedy, train as a boxer, read fiction, obsess over 1st party Nintendo franchises,
+              and shoot photography with my Olympus camera. 
             </p>
             <p>
-              I built this responsive portfolio site from scratch.
+              I built this responsive portfolio site from scratch,
               using only best practices with react and responsive design.
             </p>
             <p>
