@@ -32,7 +32,7 @@ const AboutPage = (props, context) => {
               Constantly striving to better myself as a professional and full-time human-being {' '}
               by persuing my many passions. I stay close to
               the programming community by attending meetups in PDX, engaging in discussions through social media,
-              , and purchasing educational content to stay fresh as a developer. 
+              and purchasing educational content to stay fresh as a developer. 
             </p>
             <p> 
               I also like to write comedy, train as a boxer, read fiction, obsess over 1st party Nintendo franchises,
