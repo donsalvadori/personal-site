@@ -65,7 +65,8 @@ export default [{
         Interactive Food Menu
       </div>
       <div className='portfolio-item__desc'>
-         Simulated interactive Menu for Fish Restaurant built with React + Firebase
+         Simulated interactive Menu for Fish Restaurant built with React + Firebase. 
+         Best viewed on Desktop.
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-js"></i>
