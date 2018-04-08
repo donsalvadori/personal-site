@@ -40,7 +40,7 @@ const AboutPage = (props, context) => {
             </p>
             <p>
               I built this responsive portfolio site from scratch,
-              using only best practices with react and responsive design.
+              using only best practices with React and responsive design.
             </p>
             <p>
               Modern Javascript, React-Redux, Node.js, Docker, and
