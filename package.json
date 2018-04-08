@@ -1,7 +1,6 @@
 {
   "name": "chris-portfolio",
   "version": "1.0.0",
-  "private": true,
   "homepage": "http://donsalvadori.github.io/personal-site",
   "scripts": {
     "start": "node scripts/start.js",
