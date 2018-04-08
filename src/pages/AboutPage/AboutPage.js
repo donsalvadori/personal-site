@@ -25,30 +25,26 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              I like <span className="highlight">JavaScript</span> and
-              everything web.
+              I adore modern <span className="highlight">JavaScript</span> and
+              and web engineering.
             </p>
             <p>
-              When my dev senses kick-in I build presumably{' '}
-              <span className="highlight"> awesome stuff</span>. I stay close to
-              the community and try to keep tabs with the pace at which the web
-              is evolving. I also like to{' '}
-              <span className="highlight">blog</span> what I learn.
+              Constantly striving to better myself as a professional and full-time human-being {' '}
+              by persuing my many passions. I stay close to
+              the programming community by attending meetups in PDX, engaging in discussions through social media,
+              , and purchasing content often to stay fresh as a developer. 
+            </p>
+            <p> 
+              I also like to write comedy, train as a boxer, read fiction, obsess over 1st party nintendo franchises,
+              and shoot photography with my olympus camera. 
             </p>
             <p>
-              I built this site <span className="highlight">from scratch</span>.
-              By scratch, I mean <i>absolutely from scratch</i>{' '}
-              <span className="highlight">
-                without any UI library/framework
-              </span>{' '}
-              (except React though) and had so much fun along the way.
+              I built this responsive portfolio site from scratch.
+              using only best practices with react and responsive design.
             </p>
             <p>
               Modern Javascript, React-Redux, Node.js, Docker, and
-              AWS are the main tricks up my sleeve. I am also obsessed with making the web look pretty with SASS/CSS.
-            </p>
-            <p className="text-emoji" style={{ color: colorPrimary }}>
-              \ (•◡•) /
+              AWS are the main tricks up my sleeve. I also have a keen eye for design and dable in sketch.
             </p>
           </div>
         </div>
