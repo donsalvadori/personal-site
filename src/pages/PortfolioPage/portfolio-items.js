@@ -34,7 +34,7 @@ export default [{
         <i className="fab fa-js"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://donsalvadori.github.io/h1b1/">Salaries</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://donsalvadori.github.io/h1b1/">Link</a>
       </div>
     </div>
   )
