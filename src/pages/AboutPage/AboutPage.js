@@ -44,7 +44,7 @@ const AboutPage = (props, context) => {
             </p>
             <p>
               Modern Javascript, React-Redux, Node.js, Docker, and
-              AWS are the main tricks up my sleeve. I also have a keen eye for design and dable in sketch.
+              AWS are the main tricks up my sleeve. I also have a keen eye for design and dable in Sketch.
             </p>
           </div>
         </div>
