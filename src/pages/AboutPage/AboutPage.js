@@ -40,7 +40,7 @@ const AboutPage = (props, context) => {
               então fique à vontade para falar comigo ;).
             </p>
             <p>
-              I built this responsive portfolio site using only best practices with React and responsive design.
+              I built this responsive portfolio <a target="_blank" rel="noopener noreferrer" href="https://github.com/donsalvadori/personal-site"><span className="highlight">site</span></a> using only best practices with React and responsive design.
             </p>
             <p>
               Modern Javascript, React-Redux, Node.js, Docker, and
