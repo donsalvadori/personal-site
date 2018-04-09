@@ -86,7 +86,7 @@ export default [{
         Carfit
       </div>
       <div className='portfolio-item__desc'>
-        Front End for iOS
+        Front End for iOS IOT app that predicts car health.
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-react"></i>
@@ -94,6 +94,26 @@ export default [{
       </div>
       <div className='portfolio-item__links'>
         <a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/app/carfit/id1141566394?mt=8">Link</a>
+      </div>
+    </div>
+  )
+},
+{
+  name: 'AQLink',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+        AQLink
+      </div>
+      <div className='portfolio-item__desc'>
+        Front End engineering for iOS IOT app. Helps clean fancy pools.
+      </div>
+      <div className='portfolio-item__icon'>
+        <i className="fab fa-react"></i>
+        <i className="fab fa-js"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        <a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/app/aqlink/id1078865040?mt=8">Link</a>
       </div>
     </div>
   )
