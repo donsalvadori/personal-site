@@ -78,4 +78,24 @@ export default [{
     </div>
   )
 },
+{
+  name: 'Carfit',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+        Carfit
+      </div>
+      <div className='portfolio-item__desc'>
+        Front End for iOS
+      </div>
+      <div className='portfolio-item__icon'>
+        <i className="fab fa-react"></i>
+        <i className="fab fa-js"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        <a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/app/carfit/id1141566394?mt=8">Link</a>
+      </div>
+    </div>
+  )
+}
 ]
