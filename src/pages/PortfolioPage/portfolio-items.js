@@ -86,7 +86,7 @@ export default [{
         Carfit
       </div>
       <div className='portfolio-item__desc'>
-        Front End for iOS IOT app that predicts car health.
+        Front End Engineering for iOS IOT app that predicts car health.
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-react"></i>
@@ -106,7 +106,8 @@ export default [{
         AQLink
       </div>
       <div className='portfolio-item__desc'>
-        Front End engineering for iOS IOT app. Helps clean fancy pools.
+        Front End engineering for iOS IOT app. 
+        Master controller for device that clean fancy pools.
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-react"></i>
