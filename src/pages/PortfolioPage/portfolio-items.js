@@ -86,7 +86,8 @@ export default [{
         Carfit
       </div>
       <div className='portfolio-item__desc'>
-        Front End Engineering for iOS IOT app that predicts car health.
+        Front End Engineering for iOS IOT app that predicts and analyzes car diganosis. 
+        Streams data from device to app and vice versa.
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-react"></i>
