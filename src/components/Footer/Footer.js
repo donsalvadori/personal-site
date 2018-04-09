@@ -8,7 +8,7 @@ const Footer = (props, context) => {
   return (
     <footer>
       <div className="content-grid">
-        <div style={{ color: textPrimary }}> la Frontera Design</div>
+        <div style={{ color: textPrimary }}></div>
       </div>
     </footer>
   );
