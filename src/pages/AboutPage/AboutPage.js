@@ -43,7 +43,7 @@ const AboutPage = (props, context) => {
               I built this responsive portfolio <a target="_blank" rel="noopener noreferrer" href="https://github.com/donsalvadori/personal-site"><span className="highlight">site</span></a> using only best practices with React and responsive design.
             </p>
             <p>
-              Modern Javascript, React-Redux, Node.js, Docker, and
+              Modern Javascript, React-Redux, React Native, Node.js, Docker, and
               AWS are the main tricks up my sleeve. I also have a keen eye for design and dable in Sketch.
             </p>
           </div>
