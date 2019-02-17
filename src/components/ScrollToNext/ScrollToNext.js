@@ -5,16 +5,35 @@ import { toElement as scrollToElement } from '@utils/scroll';
 import './style.scss';
 
 class ScrollToNext extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      bouncer: false,
+    };
+  }
+
   scrollToNext() {
     const { pageSelector } = this.props;
     const nextPage = document.querySelector(pageSelector);
     scrollToElement(nextPage);
   }
 
+  bouncerActive() {
+    this.setState({
+      bouncer: true
+    });
+  }
+
+  bouncerDeactive() {
+    this.setState({
+      bouncer: false
+    });
+  }
+
   render() {
     const { theme: { colorPrimary } } = this.context;
     return (
-      <div className="scroll-to-next" onClick={(e) => this.scrollToNext()}>
+      <div className="scroll-to-next" onMouseEnter={(e) => this.bouncerActive()} onMouseLeave={(e) => this.bouncerDeactive()} onClick={(e) => this.scrollToNext()}>
         <div className="arrow bounce" style={{ color: colorPrimary }}>
           <div className="scroll-text">Click Me</div>
           <button className="fas fa-chevron-down fa-2x" href="#" />

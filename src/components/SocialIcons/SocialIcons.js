@@ -8,11 +8,8 @@ const SocialIcons = (props, context) => {
   
   return (
     <div className="social-icons animate-icons">
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/donsalvadori" style={ { color: colorPrimary } }><i className="fab fa-github"></i></a>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/chris-salvinator" style={ { color: colorPrimary } }><i className="fab fa-linkedin"></i></a>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.quora.com/profile/Chris-Salvi-2" style={ { color: colorPrimary } }><i className="fab fa-quora"></i></a>
-        <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@cdiddy42" style={ { color: colorPrimary } }><i className="fab fa-medium"></i></a>        
-      </div>
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/donsalvadori" style={ { color: colorPrimary } }><i className="fab fa-github"></i></a>     
+    </div>
   );
 };
 

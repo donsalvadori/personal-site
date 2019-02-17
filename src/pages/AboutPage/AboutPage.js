@@ -35,7 +35,7 @@ const AboutPage = (props, context) => {
               and purchasing educational content to stay fresh as a developer. 
             </p>
             <p> 
-              I also like to write comedy, train as a boxer, read fiction, obsess over 1st party <a target="_blank" rel="noopener noreferrer" href="https://ibb.co/kFmZWc"><span className="highlight">Nintendo</span></a> franchises,
+              I also like to write comedy, exercise as a boxer, read fiction, obsess over 1st party <a target="_blank" rel="noopener noreferrer" href="https://ibb.co/kFmZWc"><span className="highlight">Nintendo</span></a> franchises,
               and shoot photography with my Olympus camera. I also am conversational in Brazilian portuguese, 
               então fique à vontade para falar comigo ;).
             </p>
